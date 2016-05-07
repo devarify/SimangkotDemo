@@ -1,0 +1,123 @@
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\App.g.cs
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\MainPage.g.cs
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Simangkot.g.resources
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.resources
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.af-ZA.resources
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.af.resources
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.gsw-FR.resources
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.gsw.resources
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.id.resources
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.sq-AL.resources
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.sq.resources
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Simangkot.csproj.GenerateResource.Cache
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Simangkot.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Simangkot.pdb
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\af-ZA\Simangkot.resources.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\af\Simangkot.resources.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\gsw-FR\Simangkot.resources.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\gsw\Simangkot.resources.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\id\Simangkot.resources.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\sq-AL\Simangkot.resources.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\sq\Simangkot.resources.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\AppManifest.xaml
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\af-ZA\Simangkot.resources.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\af\Simangkot.resources.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\gsw-FR\Simangkot.resources.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\gsw\Simangkot.resources.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\id\Simangkot.resources.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\sq-AL\Simangkot.resources.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\sq\Simangkot.resources.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Simangkot.dll
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Simangkot.pdb
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\XapCacheFile.xml
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Angkot1.g.cs
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\About.g.cs
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Bantuan.g.cs
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Detail1.g.cs
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Detail2.g.cs
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Detail3.g.cs
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Detail4.g.cs
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Setting.g.cs
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Angkot2.g.cs
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Angkot3.g.cs
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Angkot4.g.cs
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Angkot11.png
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Untitled da.png
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Untitled dag.png
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\AngkotDago.png
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\CimahiStHall.png
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\DagoStHall.png
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\GunungbatuSthall.png
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\SarijadiCiroyom.png
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Bantuan-01.jpg
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\Bin\Debug\Simangkot Bandung.xap
+C:\Users\Arif Yulianto\Documents\Visual Studio 2013\Projects\Simangkot\Simangkot\obj\Debug\Simangkot.csprojResolveAssemblyReference.cache
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\Angkot11.png
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\AngkotDago.png
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\Bantuan-01.jpg
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\CimahiStHall.png
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\DagoStHall.png
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\GunungbatuSthall.png
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\SarijadiCiroyom.png
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\Untitled da.png
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\Untitled dag.png
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\Simangkot.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\Simangkot.pdb
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\af-ZA\Simangkot.resources.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\af\Simangkot.resources.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\gsw-FR\Simangkot.resources.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\gsw\Simangkot.resources.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\id\Simangkot.resources.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\sq-AL\Simangkot.resources.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\sq\Simangkot.resources.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\AppManifest.xaml
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Arify\Documents\Simangkot\Simangkot\Bin\Debug\Simangkot Bandung.xap
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Simangkot.csprojResolveAssemblyReference.cache
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\App.g.cs
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\About.g.cs
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Angkot4.g.cs
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Angkot3.g.cs
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Angkot2.g.cs
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Angkot1.g.cs
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Bantuan.g.cs
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Detail1.g.cs
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Detail2.g.cs
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Detail3.g.cs
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Detail4.g.cs
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\MainPage.g.cs
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Setting.g.cs
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Simangkot.g.resources
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.resources
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.af-ZA.resources
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.af.resources
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.gsw-FR.resources
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.gsw.resources
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.id.resources
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.sq-AL.resources
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Simangkot.Resources.AppResources.sq.resources
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Simangkot.csproj.GenerateResource.Cache
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\af-ZA\Simangkot.resources.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\af\Simangkot.resources.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\gsw-FR\Simangkot.resources.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\gsw\Simangkot.resources.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\id\Simangkot.resources.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\sq-AL\Simangkot.resources.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\sq\Simangkot.resources.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Simangkot.dll
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\Simangkot.pdb
+C:\Users\Arify\Documents\Simangkot\Simangkot\obj\Debug\XapCacheFile.xml

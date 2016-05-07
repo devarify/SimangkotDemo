@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Simangkot.App">
+    <Position X="11" Y="10.25" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Simangkot.App.QuitException">
+        <TypeIdentifier>
+          <NewMemberFileName>App.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AwAgCSAIAAAAhAAAAAAAAAAAAAAAEQAAAAAAAIIAAQA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.CoordinateConverter">
+    <Position X="2.25" Y="13.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CoordinateConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.MainPage">
+    <Position X="0.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADwAAAgCAAAIgAcAAAAAAAAAAAAIAAIEAAAAAAAAIAA=</HashCode>
+      <FileName>MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.MapsViewModel">
+    <Position X="2.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAABAQAAABAAAAAAA=</HashCode>
+      <FileName>MapsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.Store" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="6.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAABIAAAAQAAAAAgAIAAAACAAAAAABAAAA=</HashCode>
+      <FileName>Store.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.1" Collapsed="true" />
+  </Class>
+  <Class Name="Simangkot.StoreListSarijadi">
+    <Position X="7.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StoreListSarijadi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sdkMapControlWP8CS.LocalizedStrings">
+    <Position X="9.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>LocalizedStrings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.Resources.AppResources">
+    <Position X="10.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAEBEABwCAAABAAABEoAFAQAQAQAAAAAAAAKAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.Angkot4">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Simangkot.Angkot4.ToggleStatus">
+        <TypeIdentifier>
+          <NewMemberFileName>Angkot4.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAQIiAIAAAAoAICBQCoAFgAAcCACEAABAAiAAAAA=</HashCode>
+      <FileName>Angkot4.xaml.cs</FileName>
+      <NewMemberFileName>Angkot3.xaml.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.About">
+    <Position X="5" Y="13.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>About.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.Angkot1">
+    <Position X="5.5" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Simangkot.Angkot1.ToggleStatus">
+        <TypeIdentifier>
+          <NewMemberFileName>Angkot1.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAQIiAIAAAAoAICBQCoAFgAAcCACEAABAAiAAAAA=</HashCode>
+      <FileName>Angkot1.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.Angkot2">
+    <Position X="8" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Simangkot.Angkot2.ToggleStatus">
+        <TypeIdentifier>
+          <NewMemberFileName>Angkot2.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAQIiAIAAAAoAACBQCoAFgQEYCACEAABAAiAAAAA=</HashCode>
+      <FileName>Angkot2.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.Angkot3">
+    <Position X="3" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Simangkot.Angkot3.ToggleStatus">
+        <TypeIdentifier>
+          <NewMemberFileName>Angkot3.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAQIiAIAAAAoAICBQCoAFgAAcCACEAABAAiAAAAA=</HashCode>
+      <FileName>Angkot3.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.Bantuan">
+    <Position X="9.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bantuan.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.Detail1">
+    <Position X="4" Y="9.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Simangkot.Detail1.DetailAngkot1">
+        <TypeIdentifier>
+          <NewMemberFileName>Detail1.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Detail1.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.Detail2">
+    <Position X="2.25" Y="9.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Simangkot.Detail2.DetailAngkot2">
+        <TypeIdentifier>
+          <NewMemberFileName>Detail2.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Detail2.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.Detail3">
+    <Position X="5.75" Y="9.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Simangkot.Detail3.DetailAngkot3">
+        <TypeIdentifier>
+          <NewMemberFileName>Detail3.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Detail3.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.Detail4">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Simangkot.Detail4.DetailAngkot4">
+        <TypeIdentifier>
+          <NewMemberFileName>Detail4.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Detail4.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.DetailAngkot">
+    <Position X="9.25" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAwAAAIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DetailAngkot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.Setting">
+    <Position X="5.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Setting.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.StoreList">
+    <Position X="9.25" Y="9.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StoreList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.StoreList2">
+    <Position X="9.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StoreList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.StoreList3">
+    <Position X="7.5" Y="13.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Simangkot.StoreList3.StoreList4" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>StoreList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StoreList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.StoreListDago">
+    <Position X="7.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StoreListDago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simangkot.StoreListGnbatu">
+    <Position X="7.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StoreListGnbatu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Simangkot.MapMode">
+    <Position X="4" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABAAAAQAAAAA=</HashCode>
+      <FileName>Angkot1.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
